@@ -15,3 +15,5 @@
 3. อ่านและปรับแก้โค้ด CSS เพื่อควบคุมหน้าตาเว็บได้ด้วยตนเอง
 4. มีพื้นฐานเพียงพอสำหรับต่อยอดไปสู่ Responsive Design และ JavaScript ในบทถัดไป
 Workshop นี้ให้ผลลัพธ์เป็น เว็บต้นแบบที่ใช้งานได้จริง + ผู้เรียนมีสมรรถนะด้าน Web UI ระดับพื้นฐานถึงกลาง พร้อมต่อยอดสู่ Front-end Framework และ UX/UI เชิงลึกในขั้นถัดไป
+
+<img width="1024" height="1536" alt="ChatGPT Image 5" src="https://github.com/user-attachments/assets/42b84e96-80e8-4f7e-b480-d75cdb0dd65a" />
