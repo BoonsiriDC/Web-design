@@ -1,3 +1,11 @@
+<img width="550" height="350" alt="ChatGPT Image 5" src="https://github.com/user-attachments/assets/42b84e96-80e8-4f7e-b480-d75cdb0dd65a"/>
+<img
+  src="https://github.com/user-attachments/assets/42b84e96-80e8-4f7e-b480-d75cdb0dd65a"
+  alt="ChatGPT Image 5"
+  width="550"
+  height="350"
+  style="display:block; margin:0 auto;"
+/>
 ภาพรวมของ ผลลัพธ์ที่ได้จาก Workshop: HTML for Web Design – คิด ออกแบบ และสร้าง + การตกแต่งด้วย CSS มีดังนี้
 
 ผู้เรียนสามารถสร้างหน้าเว็บแบบ Landing Page ได้ครบกระบวนการ ตั้งแต่โครงสร้าง HTML ไปจนถึงการจัดวางและตกแต่งด้วย CSS อย่างเป็นระบบ โดยได้เว็บที่ใช้งานได้จริงและมีความสวยงามระดับพื้นฐานถึงกลาง
@@ -16,4 +24,4 @@
 4. มีพื้นฐานเพียงพอสำหรับต่อยอดไปสู่ Responsive Design และ JavaScript ในบทถัดไป
 Workshop นี้ให้ผลลัพธ์เป็น เว็บต้นแบบที่ใช้งานได้จริง + ผู้เรียนมีสมรรถนะด้าน Web UI ระดับพื้นฐานถึงกลาง พร้อมต่อยอดสู่ Front-end Framework และ UX/UI เชิงลึกในขั้นถัดไป
 
-<img width="550" height="280" alt="ChatGPT Image 5" src="https://github.com/user-attachments/assets/42b84e96-80e8-4f7e-b480-d75cdb0dd65a"/>
+
